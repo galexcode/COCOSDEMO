@@ -16,6 +16,4 @@ profile
 *.moved-aside
 DerivedData
 .idea/
-[branch "master"]
-    remote = origin
-    merge = refs/heads/master
+
